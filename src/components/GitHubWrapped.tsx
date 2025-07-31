@@ -396,7 +396,7 @@ const GitHubWrapped = () => {
                 onClick={fetchGitHubData} 
                 disabled={loading}
                 size="lg"
-                className="w-full h-14 text-lg bg-gradient-to-r from-primary to-secondary hover:from-primary/90 hover:to-secondary/90 transition-all duration-300 shadow-lg hover:shadow-xl border-0 animate-pulse-glow"
+                className="w-full h-14 text-lg bg-gradient-to-r from-primary to-secondary hover:from-primary/90 hover:to-secondary/90 transition-all duration-300 shadow-lg hover:shadow-xl hover:animate-pulse-glow border-0"
               >
                 {loading ? (
                   <div className="flex items-center space-x-3">
