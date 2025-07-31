@@ -368,7 +368,7 @@ const GitHubWrapped = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary to-secondary rounded-full blur-xl opacity-20 animate-pulse-glow" />
               </div>
               <div className="space-y-3">
-                <h1 className="text-4xl font-bold shimmer-text">
+                <h1 className="text-4xl font-bold">
                   GitHub Wrapped 2024
                 </h1>
                 <p className="text-lg text-muted-foreground">
